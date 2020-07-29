@@ -23,8 +23,8 @@ This Project is a Machine Learning based approach to predict various diseases wi
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Python 3.5 or above
+- Jupyter Notebook
 
 [Back To The Top](#read-me-template)
 
