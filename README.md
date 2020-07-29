@@ -4,12 +4,12 @@
 
 For Data Pre-processing:
 > Run dataset_making.ipynb
+
 > Run Disease_prediction.ipynb
 
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
