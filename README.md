@@ -58,7 +58,7 @@ https://www.python.org/
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2020] [Saksham Jain]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -84,7 +84,7 @@ SOFTWARE.
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Linkedin - [Saksham Jain](https://linkedin/saksham-jain-007)
+- Website - [Saksham Jain](https://sakshamjn.me)
 
 [Back To The Top](#read-me-template)
