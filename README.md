@@ -1,8 +1,8 @@
-# Read Me Template
+# Disease Prediction
 
 ![Project Image](project-image-url)
 
-> This is a ReadMe template to help save you time and effort.
+> Run Disease_prediction.ipynb
 
 ---
 
@@ -19,7 +19,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+This Project is a Machine Learning based approach to predict various diseases with the help of symptoms
 
 #### Technologies
 
