@@ -2,6 +2,8 @@
 
 ![Project Image](project-image-url)
 
+For Data Pre-processing:
+> Run dataset_making.ipynb
 > Run Disease_prediction.ipynb
 
 ---
@@ -47,6 +49,7 @@ then:
 
 ## References
 https://www.python.org/
+
 [Back To The Top](#read-me-template)
 
 ---
