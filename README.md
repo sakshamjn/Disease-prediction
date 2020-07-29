@@ -36,10 +36,10 @@ This Project is a Machine Learning based approach to predict various diseases wi
 
 
 
-#### API Reference
+##### Python From source
 
-```html
-    <p>dummy code</p>
+```python
+    pip install jupyter notebook
 ```
 [Back To The Top](#read-me-template)
 
