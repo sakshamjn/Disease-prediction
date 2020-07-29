@@ -5,10 +5,10 @@
 -->
 
 For Data Pre-processing:
-> Run dataset_making.ipynb
+> dataset_making.ipynb
 
 Final Code:
-> Run Disease_prediction.ipynb
+> Disease_prediction.ipynb
 
 ---
 
