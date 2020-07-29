@@ -1,4 +1,6 @@
-# Disease-prediction  ![A Project by ](http://learncodeonline.in/gitone.png "Made By") - ## Saksham Jain
+# Disease-prediction
+![A Project by ](http://learncodeonline.in/gitone.png "Made By") 
+# Saksham Jain
 In this project, I have used the data as shown in Fig-1 to predict Disease by some symptons using Machine Learning Approach.
 
 
