@@ -84,7 +84,7 @@ SOFTWARE.
 
 ## Author Info
 
-- Linkedin - [Saksham Jain](https://linkedin/in/saksham-jain-007)
+- Linkedin - [Saksham Jain](https://linkedin.com/in/saksham-jain-007)
 - Website - [Saksham Jain](https://sakshamjain.me)
 
 [Back To The Top](#read-me-template)
