@@ -1,9 +1,8 @@
 # Disease Prediction
-
+<!--
 ![Me](https://avatars2.githubusercontent.com/u/38393682?s=60&v=4)
-
-
 <img src="https://avatars2.githubusercontent.com/u/38393682?s=60&v=4" width=100>
+-->
 
 For Data Pre-processing:
 > Run dataset_making.ipynb
