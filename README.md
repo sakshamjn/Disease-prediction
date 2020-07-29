@@ -19,7 +19,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-This Project is a Machine Learning based approach to predict various diseases with the help of symptoms
+This Project is a Machine Learning based approach to predict various diseases with the help of symptoms.
 
 #### Technologies
 
@@ -37,7 +37,7 @@ This Project is a Machine Learning based approach to predict various diseases wi
 
 
 ##### Python From source
-
+then:
 ```python
     pip install jupyter notebook
 ```
@@ -46,6 +46,7 @@ This Project is a Machine Learning based approach to predict various diseases wi
 ---
 
 ## References
+https://www.python.org/
 [Back To The Top](#read-me-template)
 
 ---
