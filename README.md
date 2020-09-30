@@ -24,7 +24,7 @@ Final Code:
 
 ## Description
 
-This Project is a Machine Learning based approach to predict various diseases with the help of symptoms.
+This project is a Machine Learning based approach to predict various diseases with the help of symptoms.
 
 #### Technologies
 
